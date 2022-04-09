@@ -11,9 +11,9 @@ Don't forget to follow me
 3. <code>pip2 install requests </code>
 4. <code>pip2 install colorama </code>
 5. <code>pkg install bash </code>
-6. <code>git clone https://github.com/SAMIV10X/scan-ye</code>
-7. <code>cd tool-ye</code>
-8. <code>chmod +x tool-ye </code>
+6. <code>git clone https://github.com/mr-sami-x/Tool_Ye.git</code>
+7. <code>cd Too_Ye</code>
+8. <code>chmod +x Tool_Ye </code>
 9. <code>bash hack-ye.sh</code><br><br>
 
 
