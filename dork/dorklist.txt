@@ -1,0 +1,12 @@
+about.php?id=
+index.php?nid1=
+details.php?id=
+faq.php?ID=
+content.php?id=
+product.php?id=
+view.php?id=
+viewfaculty.php?id=
+journal.php?id=
+news.php?id=
+buy.php?Id=
+noc-player.php?id=
